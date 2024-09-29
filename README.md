@@ -1,6 +1,5 @@
 # Port-Scanner-Python
- Port scanning is a script or program created to search for an open host. It can find which ports are open on a network device, a server, router, or ordinary desktop. Learn how to develop a port scanner with Python very simply. 
-
+ Port scanning is a script or program created to search for an open host. It can find which ports are open on a network device, a server, a router, or an ordinary desktop. Learn how to develop a port scanner with Python very simply. 
 This article will teach you how to use the socket module in Python to create your port scanner. The central premise of this straightforward port scanner is to use a list of ports to attempt to connect to a given host (website, server, or any other device connected to the Internet or network). The port is open if you have successfully established a connection.
 
 For example, when you loaded this page, you connected to this website on port 80. In a similar vein, this script will attempt to connect to a host on several different ports. Don't use this tool on a host you aren't authorized to test; these tools are helpful for penetration testers and hackers!
