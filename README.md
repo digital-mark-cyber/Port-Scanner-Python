@@ -1,8 +1,8 @@
 # Port-Scanner-Python
- Port scanning is a script or program created to search for an open host. It can find which ports are open on a network device, a server, a router, or an ordinary desktop. Learn how to develop a port scanner with Python very simply. 
+ Port scanning is a script or program created to search for an open host. It can find which ports are open on a network device, a server, a router, or an ordinary desktop. Learning how to develop a port scanner with Python is very simply. 
 This article will teach you how to use the socket module in Python to create your port scanner. The central premise of this straightforward port scanner is to use a list of ports to attempt to connect to a given host (website, server, or any other device connected to the Internet or network). The port is open if you have successfully established a connection.
 
-For example, when you loaded this page, you connected to this website on port 80. In a similar vein, this script will attempt to connect to a host on several different ports. Don't use this tool on a host you aren't authorized to test; these tools are helpful for penetration testers and hackers!
+For example, when you loaded this page, you are connected to this website on port 80. In a similar way, this script will attempt to connect to a host on several different ports. Don't use this tool on a host you aren't authorized to test as these tools are helpful for penetration testers and hackers!
 
 
 **Table of contents:**
@@ -31,7 +31,7 @@ Here's a simple Python port scanner using the socket library. This script scans 
 Port scanning works well most of the time. A certified penetration tester can use this tool to check which ports are open, identify possible security devices like firewalls, assess network security, and evaluate device strength.
 
 Hackers who want to find weak spots on the target machine often use it as a reconnaissance tool.
-Nmap, a popular choice among penetration testers, offers advanced features beyond port scanning. It provides sophisticated methods to identify running operating systems and services, making it a comprehensive tool for network assessment.
+Nmap is a popular choice among penetration testers, offers advanced features beyond port scanning. It provides sophisticated methods to identify running operating systems and services, making it a comprehensive tool for network assessment.
 
 
 **Note:**
